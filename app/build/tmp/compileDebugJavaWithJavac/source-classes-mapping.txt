@@ -1,0 +1,16 @@
+com/bignerdranch/photogallery/BuildConfig.java
+ com.bignerdranch.photogallery.BuildConfig
+com/bignerdranch/photogallery/FlickrFetchr.java
+ com.bignerdranch.photogallery.FlickrFetchr
+com/bignerdranch/photogallery/GalleryItem.java
+ com.bignerdranch.photogallery.GalleryItem
+com/bignerdranch/photogallery/SingleFragmentActivity.java
+ com.bignerdranch.photogallery.SingleFragmentActivity
+com/bignerdranch/photogallery/PhotoGalleryFragment.java
+ com.bignerdranch.photogallery.PhotoGalleryFragment
+ com.bignerdranch.photogallery.PhotoGalleryFragment$1
+ com.bignerdranch.photogallery.PhotoGalleryFragment$FetchItemsTask
+ com.bignerdranch.photogallery.PhotoGalleryFragment$PhotoAdapter
+ com.bignerdranch.photogallery.PhotoGalleryFragment$PhotoHolder
+com/bignerdranch/photogallery/PhotoGalleryActivity.java
+ com.bignerdranch.photogallery.PhotoGalleryActivity
